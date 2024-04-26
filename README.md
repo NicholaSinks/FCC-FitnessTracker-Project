@@ -1,3 +1,3 @@
-# Exercise Tracker
+This is a freeCodeCamp project that I completed.
 
-This is the boilerplate for the Exercise Tracker project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker
+The website allows adding users and exercises, stored in a MongoDB database. It then allows fetching users and exercises and filtering exercises by date and limiting results.
